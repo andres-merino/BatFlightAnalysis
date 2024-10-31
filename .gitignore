@@ -1,3 +1,5 @@
 # Datos
 data/Individuo*
 
+# Python
+__pycache__/
