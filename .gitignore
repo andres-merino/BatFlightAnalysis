@@ -1,5 +1,6 @@
 # Datos
 data/Individuo*
+data/mediciones.xlsx
 
 # Python
 __pycache__/
